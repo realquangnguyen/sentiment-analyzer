@@ -1,1 +1,1 @@
-# sentiment-analyzer
+This is a beginner Natural Language Processing (NLP) tool built with Python and TextBlob. It analyzes user text input and classifies the emotional tone as positive, negative, or neutral.
